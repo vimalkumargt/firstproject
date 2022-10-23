@@ -4,5 +4,9 @@ int main()
 int a,b;
 a=10;
 b=6;
+<<<<<<< HEAD
 printf("%d",ab);
+=======
+printf("%d",a*b);
+>>>>>>> main
 }
